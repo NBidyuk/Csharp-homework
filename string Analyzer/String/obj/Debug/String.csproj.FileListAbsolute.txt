@@ -1,0 +1,12 @@
+D:\НАТАША\Шаг\ДЗ\Projects\C#\String\String\bin\Debug\String.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\C#\String\String\bin\Debug\String.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\String\String\bin\Debug\String.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\C#\String\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\C#\String\String\obj\Debug\String.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\String\String\obj\Debug\String.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\String\String\bin\Debug\String.exe.config
+D:\НАТАША\Шаг\Homework\Projects\C#\String\String\obj\Debug\String.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\String\String\obj\Debug\String.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\String\String\bin\Debug\String.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\String\String\bin\Debug\String.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\String\String\obj\Debug\String.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\НАТАША\Шаг\ДЗ\Projects\C#\consequence\consequence\bin\Debug\consequence.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\C#\consequence\consequence\bin\Debug\consequence.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\consequence\consequence\bin\Debug\consequence.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\C#\consequence\consequence\obj\Debug\consequence.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\C#\consequence\consequence\obj\Debug\consequence.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\consequence\consequence\obj\Debug\consequence.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\consequence\consequence\bin\Debug\consequence.exe.config
+D:\НАТАША\Шаг\Homework\Projects\C#\consequence\consequence\obj\Debug\consequence.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\consequence\consequence\obj\Debug\consequence.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\consequence\consequence\bin\Debug\consequence.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\consequence\consequence\bin\Debug\consequence.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\consequence\consequence\obj\Debug\consequence.csprojResolveAssemblyReference.cache

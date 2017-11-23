@@ -1,0 +1,11 @@
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Maze\bin\Debug\Maze.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Maze\bin\Debug\Maze.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Maze\bin\Debug\Maze.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Maze\obj\Debug\Maze.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Maze\obj\Debug\Maze.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Maze\Maze\bin\Debug\Maze.exe.config
+D:\НАТАША\Шаг\Homework\Projects\C#\Maze\Maze\obj\Debug\Maze.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\Maze\Maze\obj\Debug\Maze.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Maze\Maze\bin\Debug\Maze.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\Maze\Maze\bin\Debug\Maze.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache

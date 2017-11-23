@@ -1,0 +1,15 @@
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Numbers 1-1000000\bin\Debug\Numbers 1-1000000.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Numbers 1-1000000\bin\Debug\Numbers 1-1000000.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Numbers 1-1000000\bin\Debug\Numbers 1-1000000.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\Homework\Projects\C#\Numbers 1-1000000\bin\Debug\Numbers 1-1000000.exe.config
+D:\НАТАША\Шаг\Homework\Projects\C#\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Numbers 1-1000000\bin\Debug\Numbers 1-1000000.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\Numbers 1-1000000\bin\Debug\Numbers 1-1000000.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.csprojResolveAssemblyReference.cache
+D:\GitHub\CPP-homework\Numbers in words\Numbers 1-1000000\bin\Debug\Numbers 1-1000000.exe.config
+D:\GitHub\CPP-homework\Numbers in words\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.exe
+D:\GitHub\CPP-homework\Numbers in words\Numbers 1-1000000\obj\Debug\Numbers 1-1000000.pdb

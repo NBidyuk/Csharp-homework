@@ -1,0 +1,16 @@
+﻿  Пятнашки проба.cpp
+  Пятнашки.cpp
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(36): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(65): warning C4129: ' ': unrecognized character escape sequence
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(67): warning C4129: ' ': unrecognized character escape sequence
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(222): warning C4018: '<': signed/unsigned mismatch
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(242): warning C4018: '<': signed/unsigned mismatch
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(274): warning C4018: '<': signed/unsigned mismatch
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(276): warning C4018: '<': signed/unsigned mismatch
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(292): warning C4018: '<': signed/unsigned mismatch
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(294): warning C4018: '<': signed/unsigned mismatch
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(374): warning C4018: '<': signed/unsigned mismatch
+d:\наташа\шаг\homework\projects\пятнашки\consoleapplication1\consoleapplication1\пятнашки.cpp(376): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\НАТАША\Шаг\Homework\Projects\Пятнашки\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\НАТАША\Шаг\Homework\Projects\Пятнашки\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

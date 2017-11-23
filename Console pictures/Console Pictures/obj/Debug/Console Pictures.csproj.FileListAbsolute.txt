@@ -1,0 +1,15 @@
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Console Pictures\bin\Debug\Console Pictures.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Console Pictures\bin\Debug\Console Pictures.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Console Pictures\bin\Debug\Console Pictures.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Console Pictures\obj\Debug\Console Pictures.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Console Pictures\obj\Debug\Console Pictures.exe
+D:\НАТАША\Шаг\ДЗ\Projects\C#\Console Pictures\obj\Debug\Console Pictures.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Console Pictures\bin\Debug\Console Pictures.exe.config
+D:\НАТАША\Шаг\Homework\Projects\C#\Console Pictures\obj\Debug\Console Pictures.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\Console Pictures\obj\Debug\Console Pictures.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Console Pictures\bin\Debug\Console Pictures.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\Console Pictures\bin\Debug\Console Pictures.pdb
+D:\НАТАША\Шаг\Homework\Projects\C#\Console Pictures\obj\Debug\Console Pictures.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\Homework\Projects\C#\Console pictures\Console Pictures\bin\Debug\Console Pictures.exe.config
+D:\НАТАША\Шаг\Homework\Projects\C#\Console pictures\Console Pictures\obj\Debug\Console Pictures.exe
+D:\НАТАША\Шаг\Homework\Projects\C#\Console pictures\Console Pictures\obj\Debug\Console Pictures.pdb
